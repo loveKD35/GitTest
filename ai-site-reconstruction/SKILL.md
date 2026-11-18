@@ -1,0 +1,1 @@
+See local skill contents previously displayed.
