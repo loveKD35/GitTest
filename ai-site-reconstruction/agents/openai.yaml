@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Site Reconstruction"
+  short_description: "Rebuild websites from reference images"
+  default_prompt: "Use $ai-site-reconstruction to analyze this website reference and wait for my confirmation before coding."
+
+policy:
+  allow_implicit_invocation: true
